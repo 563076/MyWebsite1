@@ -1,0 +1,48 @@
+/* links */
+ a {
+    color: #c5c5c8;
+    padding: 12px 12px;
+    text-decoration: none;
+    font-size: 33px;
+    font-family: 'Great Vibes', cursive;
+    }
+ a:hover {
+    color:  rgb(253, 170, 184);
+    }
+
+/*background*/
+ body {
+  background-image: url('Plant.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+    }
+
+/*Text content*/
+ <style type="text/css">  
+     does not matter{
+       /*So '.content' works*/
+    }
+    .content{
+      color: #c5c5c8;
+      position:absolute;
+      top:49%;
+      right:23%;
+    }
+    p1{
+      font-size:50px;
+      font-family: 'Great Vibes', cursive;
+    }
+    .content2{
+      color:#c5c5c8;
+      position:absolute;
+      top:55%;
+      right:11%;
+    }
+    p2{
+      font-size:73px;
+      font-family: 'Bentham', serif;
+
+    }
+ </style>
